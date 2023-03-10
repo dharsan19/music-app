@@ -1,2 +1,1 @@
-# Music-app made with vue js
-
+# Music-app
